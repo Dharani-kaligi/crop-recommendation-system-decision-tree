@@ -2,7 +2,7 @@
 
 ## 📌 Project Overview
 
-This project develops a **Decision Tree Classifier** to recommend the most suitable crop based on soil nutrients and environmental conditions. The model follows a complete machine learning workflow, including data preprocessing, exploratory data analysis (EDA), outlier investigation, model training, hyperparameter tuning, and evaluation.
+This project develops a **Decision Tree Classifier** to recommend the most suitable crop based on soil nutrients and environmental conditions. The model follows a complete machine learning workflow, including data preprocessing, exploratory data analysis (EDA), outlier investigation, model training, hyperparameter tuning, and evaluation, feature importance and prediction on unseen data.
 
 The goal is to help farmers make **data-driven crop selection decisions**, improving agricultural productivity and promoting sustainable farming practices.
 
